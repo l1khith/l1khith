@@ -4,11 +4,20 @@
 
 ### 🛠 Tech Stack
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+**Languages**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+
+**Databases**
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+*...and constantly adapting to new environments and tools.*
 
 ### 🚀 What I'm Building
 
@@ -18,9 +27,9 @@
 
 ### ⚡ Quick Facts
 
-- 🔭 Currently diving deep into **On-device AI & Agentic Architectures**
-- 🦀 Writing backend engines in **Rust** for bare-metal performance
-- 💬 Ask me about **JNI, Android internals, or Local LLMs**
+- 🔭 Diving deep into **On-device AI & Agentic Architectures**
+- 🦀 Writing backend engines in **Rust** and low-level code in **C/C++** for bare-metal performance
+- 💬 Ask me about **Database Architecture, JNI, or Local LLMs**
 
 ### 📫 Let's Connect
 
