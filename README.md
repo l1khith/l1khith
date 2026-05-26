@@ -39,5 +39,5 @@
 <br />
 
 <!-- Replace the # with your actual profile links -->
-[linkedin]: https://linkedin.com/in/#
-[email]: mailto:#
+[linkedin]: [https://linkedi](https://www.linkedin.com/in/ailikhith/)
+[email]: ailikhith2116@gmail.com 
