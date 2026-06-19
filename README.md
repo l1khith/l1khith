@@ -41,5 +41,5 @@
 <br />
 
 <!-- Replace the # with your actual profile links -->
-[linkedin]: [https://linkedi](https://www.linkedin.com/in/ailikhith/)
+[linkedin]: [[https://linkedi](https://www.linkedin.com/in/ailikhith/)](https://www.linkedin.com/in/ailikhith/)
 [email]: ailikhith2116@gmail.com 
