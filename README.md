@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm A.I. Likhith ⚡
+# Hi, I'm Likhith ⚡
 
 > **Building high-performance systems and exploring the edge of on-device AI.**
 
